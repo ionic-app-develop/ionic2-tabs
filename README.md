@@ -3,8 +3,7 @@ README
 ionic2-tabs
 
 ****
-###　　　　　　　　　 Author:Alex Dong
-###　　　　　　　　　 E-mail:1029278668@qq.com
+###　Author:Alex Dong
 
 ===========================
 
