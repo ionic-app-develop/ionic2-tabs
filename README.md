@@ -87,5 +87,5 @@ https://github.com/Alex-0407/ionic2-tabs
 
 * 扫一扫下面的二维码或者搜索sports17520 
 
-<img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/wechat.jpg" width="320px" style="display:inline;">
+<img src="https://pan.baidu.com/s/1geGsFqN" width="320px" style="display:inline;">
 
