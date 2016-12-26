@@ -8,7 +8,7 @@ ionic2-tabs
 
 ===========================
 
-1、认识ionic2   https://yanxiaodi.gitbooks.io/ionic2-guide/content/introduction/
+1、认识ionic2
 
 2、安装Ionic2
 
