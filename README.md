@@ -82,3 +82,9 @@ https://github.com/Alex-0407/ionic2-tabs
 * [Ionic 2 Push Notification](https://github.com/aggarwalankush/ionic2-push-base)
 * [Ionic 2 Weather app](https://github.com/aggarwalankush/ionic2-mosum)
 * [Ionic 2 Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader)
+
+#### 欢迎关注我的微信公众号，获取更多学习资源
+
+*扫一扫下面的二维码或者搜索sports17520 
+<img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/wechat.jpg" width="320px" style="display:inline;">
+
