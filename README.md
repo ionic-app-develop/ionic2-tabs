@@ -3,27 +3,27 @@ README
 ionic2-tabs
 
 ****
-###¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Author:Alex
-###¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡ E-mail:1029278668@qq.com
+###ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€Author:Alex
+###ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ E-mail:1029278668@qq.com
 
 ===========================
 
-1¡¢ÈÏÊ¶ionic2   https://yanxiaodi.gitbooks.io/ionic2-guide/content/introduction/
+1ã€è®¤è¯†ionic2   https://yanxiaodi.gitbooks.io/ionic2-guide/content/introduction/
 
-2¡¢°²×°Ionic2
+2ã€å®‰è£…Ionic2
 
-3¡¢¿ìËÙÉÏÊÖ£¬´´½¨Ò»¸öionic2ÏîÄ¿
+3ã€å¿«é€Ÿä¸Šæ‰‹ï¼Œåˆ›å»ºä¸€ä¸ªionic2é¡¹ç›®
 
-4¡¢×é¼ş½éÉÜ
+4ã€ç»„ä»¶ä»‹ç»
 
-5¡¢Ö÷Ìâ»¯
+5ã€ä¸»é¢˜åŒ–
 
 
-²Î¿¼Á´½Ó£º
+å‚è€ƒé“¾æ¥ï¼š
 
-ionic2ÈëÃÅ½Ì³Ì£ºhttps://yanxiaodi.gitbooks.io/ionic2-guide/content/introduction/
+ionic2å…¥é—¨æ•™ç¨‹ï¼šhttps://yanxiaodi.gitbooks.io/ionic2-guide/content/introduction/
 
-ionic2¹Ù·½ÎÄµµ£ºhttp://ionicframework.com/docs/
+ionic2å®˜æ–¹æ–‡æ¡£ï¼šhttp://ionicframework.com/docs/
 
 
 
@@ -35,8 +35,20 @@ ionic2¹Ù·½ÎÄµµ£ºhttp://ionicframework.com/docs/
 3. `npm install`
 4. run `ionic serve` from a terminal
 
+### é¡¹ç›®æˆªå›¾:
 
-#### Ionic 2 Ñ§Ï°×ÊÔ´
+<img src="https://github.com/Alex-0407/ionic2-tabs/tree/master/src/assets/img/1.png" width="320px" style="display:inline;">
+    
+<img src="https://github.com/Alex-0407/ionic2-tabs/tree/master/src/assets/img/2.png" width="320px" style="display:inline;">
+
+<img src="https://github.com/Alex-0407/ionic2-tabs/tree/master/src/assets/img/3.png" width="320px" style="display:inline;">
+
+<img src="https://github.com/Alex-0407/ionic2-tabs/tree/master/src/assets/img/4.png" width="320px" style="display:inline;">
+
+<img src="https://github.com/Alex-0407/ionic2-tabs/tree/master/src/assets/img/5.png" width="320px" style="display:inline;">
+
+
+#### Ionic 2 å­¦ä¹ èµ„æº
 * [Beginners Guide to Getting Started with Ionic 2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
 * [Ionic 2 First Look Series: Your First Ionic 2 App Explained](http://www.joshmorony.com/ionic-2-first-look-series-your-first-ionic-2-app-explained/)
 * [How to Convert an Ionic 1 Application to Ionic 2](http://www.joshmorony.com/how-to-convert-an-ionic-1-application-to-ionic-2/)
@@ -54,7 +66,7 @@ ionic2¹Ù·½ÎÄµµ£ºhttp://ionicframework.com/docs/
 
 
 
-#### Ionic2¿ªÔ´ÏîÄ¿
+#### Ionic2å¼€æºé¡¹ç›®
 * [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
 * [IonicRealty](https://github.com/ccoenraets/ionic2-realty)
 * [Ionic Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat)
