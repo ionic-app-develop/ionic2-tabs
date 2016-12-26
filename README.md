@@ -5,7 +5,7 @@ ionic2-tabs
 ****
 ###　　　　　　　　　 Author:Alex Dong
 ###　　　　　　　　　 E-mail:1029278668@qq.com
-###               项目地址: https://github.com/Alex-0407/ionic2-tabs
+
 ===========================
 
 1、认识ionic2   https://yanxiaodi.gitbooks.io/ionic2-guide/content/introduction/
@@ -46,6 +46,9 @@ ionic2官方文档：http://ionicframework.com/docs/
 <img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/4.PNG" width="320px" style="display:inline;">
 
 <img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/5.PNG" width="320px" style="display:inline;">
+
+### 项目地址：
+https://github.com/Alex-0407/ionic2-tabs
 
 
 #### Ionic 2 学习资源
