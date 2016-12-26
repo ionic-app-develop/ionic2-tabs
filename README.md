@@ -85,6 +85,7 @@ https://github.com/Alex-0407/ionic2-tabs
 
 #### 欢迎关注我的微信公众号，获取更多学习资源
 
-*扫一扫下面的二维码或者搜索sports17520 
+* 扫一扫下面的二维码或者搜索sports17520 
+
 <img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/wechat.jpg" width="320px" style="display:inline;">
 
