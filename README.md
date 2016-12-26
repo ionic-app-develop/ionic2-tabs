@@ -3,9 +3,9 @@ README
 ionic2-tabs
 
 ****
-###　　　　　　　　　　　　Author:Alex
+###　　　　　　　　　 Author:Alex Dong
 ###　　　　　　　　　 E-mail:1029278668@qq.com
-
+###               项目地址: https://github.com/Alex-0407/ionic2-tabs
 ===========================
 
 1、认识ionic2   https://yanxiaodi.gitbooks.io/ionic2-guide/content/introduction/
