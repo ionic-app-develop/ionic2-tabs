@@ -24,11 +24,18 @@ $font-path: "../assets/fonts";
 // The "primary" color is the only required color in the map.
 
 $colors: (
-  primary:    #387ef5,
+  /*primary:    #387ef5,*/
+  primary:    #66CCFF,
   secondary:  #32db64,
   danger:     #f53d3d,
   light:      #f4f4f4,
-  dark:       #222
+  dark:       #222,
+  twitter:( 
+        base: #55acee, 
+        /*元素的背景色*/
+        contrast: #6633FF 
+        /*文本颜色*/
+    ) 
 );
 
 

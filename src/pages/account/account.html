@@ -1,0 +1,40 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Account
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-list *ngIf="!username">
+    <ion-list-header>
+        用户操作
+    </ion-list-header>
+    <ion-item (click)="onLogin()">
+        登录
+      <ion-icon name="ios-arrow-forward" item-right></ion-icon>
+    </ion-item>
+    <ion-item>
+        注册
+      <ion-icon name="ios-arrow-forward" item-right></ion-icon>
+    </ion-item>
+    <ion-item>
+        钱包
+      <ion-icon name="ios-arrow-forward" item-right></ion-icon>
+    </ion-item>
+  </ion-list>
+
+  <div padding-top text-center *ngIf="username">
+    <img src="http://www.gravatar.com/avatar?d=mm&s=140" alt="avatar">
+    <h2>{{username}}</h2>
+
+    <ion-list inset>
+      <button ion-item (click)="updatePicture()">Update Picture</button>
+      <button ion-item (click)="changeUsername()">Change Username</button>
+      <button ion-item (click)="changePassword()">Change Password</button>
+      <button ion-item (click)="support()">Support</button>
+      <button ion-item (click)="logout()">Logout</button>
+    </ion-list>
+  </div>
+</ion-content>

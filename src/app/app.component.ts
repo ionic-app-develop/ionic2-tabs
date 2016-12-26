@@ -1,22 +1,40 @@
 import { Component } from '@angular/core';
 import { Platform } from 'ionic-angular';
 import { StatusBar, Splashscreen } from 'ionic-native';
+import { Storage } from '@ionic/storage';
 
 import { TabsPage } from '../pages/tabs/tabs';
+
+import { TutorialPage } from '../pages/tutorial/tutorial';
+import { UserData } from '../providers/user-data';
 
 
 @Component({
   templateUrl: 'app.html'
 })
 export class MyApp {
-  rootPage = TabsPage;
+   rootPage = null;
 
-  constructor(platform: Platform) {
+  constructor(
+    public userData: UserData,
+    public platform: Platform,
+    public storage: Storage
+    ) {
     platform.ready().then(() => {
-      // Okay, so the platform is ready and our plugins are available.
-      // Here you can do any higher level native things you might need.
       StatusBar.styleDefault();
-      Splashscreen.hide();
+    });
+
+    this.storage.remove('hasSeenTutorial');
+
+    // Check if the user has already seen the tutorial
+    this.userData.checkHasSeenTutorial().then((hasSeenTutorial) => {
+      if (hasSeenTutorial === null) {
+        // User has not seen tutorial
+        this.rootPage = TutorialPage;
+      } else {
+        // User has seen tutorial
+        this.rootPage = TabsPage;
+      }
     });
   }
 }
