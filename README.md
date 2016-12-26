@@ -16,7 +16,7 @@ ionic2-tabs
 
 4、组件介绍
 
-5、主体化
+5、主题化
 
 
 参考链接：
@@ -30,7 +30,7 @@ ionic2官方文档：http://ionicframework.com/docs/
 
 ### Installation & Development
 
-1. clone this repo: `git clone git@github.com:driftyco/ionic-preview-app.git`
+1. clone this repo: `git clone git@github.com:Alex-0407/ionic2-tabs.git`
 2. `cd ionic2-tabs`
 3. `npm install`
 4. run `ionic serve` from a terminal
