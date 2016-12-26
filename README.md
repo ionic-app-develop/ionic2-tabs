@@ -37,15 +37,15 @@ ionic2官方文档：http://ionicframework.com/docs/
 
 ### 项目截图:
 
-<img src="https://github.com/Alex-0407/ionic2-tabs/tree/master/src/assets/img/1.png" width="320px" style="display:inline;">
+<img src="https://github.com/Alex-0407/ionic2-tabs/blob/master/src/assets/img/1.PNG" width="320px" style="display:inline;">
     
-<img src="https://github.com/Alex-0407/ionic2-tabs/tree/master/src/assets/img/2.png" width="320px" style="display:inline;">
+<img src="https://github.com/Alex-0407/ionic2-tabs/tree/master/src/assets/img/2.PNG" width="320px" style="display:inline;">
 
-<img src="https://github.com/Alex-0407/ionic2-tabs/tree/master/src/assets/img/3.png" width="320px" style="display:inline;">
+<img src="https://github.com/Alex-0407/ionic2-tabs/tree/master/src/assets/img/3.PNG" width="320px" style="display:inline;">
 
-<img src="https://github.com/Alex-0407/ionic2-tabs/tree/master/src/assets/img/4.png" width="320px" style="display:inline;">
+<img src="https://github.com/Alex-0407/ionic2-tabs/tree/master/src/assets/img/4.PNG" width="320px" style="display:inline;">
 
-<img src="https://github.com/Alex-0407/ionic2-tabs/tree/master/src/assets/img/5.png" width="320px" style="display:inline;">
+<img src="https://github.com/Alex-0407/ionic2-tabs/tree/master/src/assets/img/5.PNG" width="320px" style="display:inline;">
 
 
 #### Ionic 2 学习资源
