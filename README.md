@@ -24,7 +24,13 @@ ionic2入门教程：https://yanxiaodi.gitbooks.io/ionic2-guide/content/introduc
 
 ionic2官方文档：http://ionicframework.com/docs/
 
+https://stackoverflow.com/questions/44186616/ionic-serve-throws-a-type-error-appscripts-serve
 
+npm install --save-dev @ionic/app-scripts@latest
+
+https://stackoverflow.com/questions/44988166/ionic-2-referenceerror-webpackjsonp-is-not-defined
+
+<script src="build/vendor.js"></script>
 
 
 ### Installation & Development
